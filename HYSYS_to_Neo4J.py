@@ -1,5 +1,5 @@
 import win32com.client as win32
-import neo4j
+#import neo4j
 
 def openHysys(hyFilePath):
     """Opens the specified HYSYS file."""
